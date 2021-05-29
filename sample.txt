@@ -2,4 +2,4 @@ this is a sample file
 this is second change
 this is the third change
 changed
-this is in feature branch
+this is in feature branch correct statement
